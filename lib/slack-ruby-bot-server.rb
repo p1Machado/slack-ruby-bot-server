@@ -1,5 +1,4 @@
 require 'celluloid/current'
-require 'kaminari/grape'
 require 'mongoid-scroll'
 require 'grape-swagger'
 require 'slack-ruby-bot'

@@ -23,7 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'grape-swagger'
   spec.add_dependency 'grape-roar'
   spec.add_dependency 'rack-cors'
-  spec.add_dependency 'kaminari-mongoid'
   spec.add_dependency 'mongoid-scroll'
   spec.add_dependency 'rack-rewrite'
   spec.add_dependency 'rack-server-pages'
